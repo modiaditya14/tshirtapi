@@ -1,0 +1,23 @@
+{
+  "name": "tshirtapi",
+  "version": "1.1.0",
+  "description": "Simple Demo API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "nodemon index.js"
+  },
+  "author": "modiaditya14",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/modiaditya14/demoapi.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-readme": "git+https://github.com/bryanjhv/express-readme.git"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
