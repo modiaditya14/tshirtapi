@@ -1,6 +1,6 @@
 # Demo API
 
-![GitHub package.json version](https://img.shields.io/github/package-json/v/modiaditya14/demoapi?style=plastic)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/modiaditya14/tshirtapi?style=plastic)
 
 Simple API made with Express
 ,Deployed at [heroku](https://tshirtapi.herokuapp.com/)
